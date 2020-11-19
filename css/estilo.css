@@ -82,3 +82,19 @@
           width: 10%;
           height: 10%;
       }
+      .motor {
+          color: yellowgreen;
+          margin-left: 5em;
+      }
+      .motor2 {
+          color: paleturquoise;
+      }
+
+      .ue {
+          width: 15%;
+      }
+
+      .p-motores {
+          color: rgb(143, 255, 68);
+          margin-top: 5rem ;
+      }
