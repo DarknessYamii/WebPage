@@ -1,0 +1,84 @@
+    .red {
+        color: red;
+    }
+    .smallimg {
+        width: 10%;
+        height: 10%;
+    }
+    .destacadosh1 {
+        text-align: center;
+        color: white;
+    }
+
+        
+    body {
+    
+        background-image: url("../fondo.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    .center {
+        text-align: center;
+        align-items: center;
+    }
+    .rowlg {
+        height: 100px;
+    }
+
+    h1{
+        font-family: 'Press Start 2P', cursive;
+    }
+    h2 {
+      font-family: 'Press Start 2P', cursive;
+    }
+    
+
+    p {
+        font-family: 'Press Start 2P', cursive;
+        font-size: 70%;
+    }
+    h5{
+        font-family: 'Press Start 2P', cursive;
+    }
+    .image-overlay {
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      
+      .overlay {
+        position: absolute;
+        bottom: 0;
+        background: rgb(0, 0, 0);
+        background: rgba(0, 0, 0, 0.5); 
+        color: #f1f1f1;
+        width: 92.1%;
+        height: 100%;
+        transition: .5s ease;
+        opacity:0;
+        color: white;
+        font-size: 20px;
+        padding: 20px;
+        text-align: center;
+      }
+      
+      .container-md:hover .overlay {
+        opacity: 1;
+      }
+      
+      .bordertop {
+          margin-top: 1em;
+      }
+      .celesteazul {
+          color: rgb(0, 223, 253);
+      }
+      .blackback {
+          background-color: black;
+          padding-bottom: 1px;
+          margin-top: 10px;
+      }
+      .redsocial {
+          width: 10%;
+          height: 10%;
+      }
